@@ -52,6 +52,7 @@ $ git commit -m "your message, e.x. Assignment 1 submission"
 $ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
 $ git push -u origin master
 <then Enter Username and Password>
+```
 
 Support
 -------
